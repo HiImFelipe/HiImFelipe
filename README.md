@@ -21,14 +21,15 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
+
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical)
 
 #### :computer: Programming languages and tools: 
 <p align="center">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+  <img width="50%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+  <img width="50%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
 </p>
 
 <sub>Check these guys aswell: [Dina](https://github.com/mdnm)</sub>
