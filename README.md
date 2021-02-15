@@ -33,8 +33,8 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   <img width="10%" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg">
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">
-  <img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-  <img width="10%" src="https://infomaniacosifpi.files.wordpress.com/2018/01/mongodb-logo.png?w=640">
+  <img width="12%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+  <img width="12%" src="https://infomaniacosifpi.files.wordpress.com/2018/01/mongodb-logo.png?w=640">
 </p>
 
 <sub>Check these guys aswell: [Dina](https://github.com/mdnm)</sub>
