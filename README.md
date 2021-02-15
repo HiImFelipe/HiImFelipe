@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe. 
 
-### Married to JavaScript ❤️
+<h3 align="center">Married to JavaScript ❤️</h3>
 ### It's not an abusive relationship, I swear. It just happens to be on every project I work on...
 
 Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
