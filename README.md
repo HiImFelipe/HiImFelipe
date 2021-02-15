@@ -16,13 +16,11 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
  - (No, I'm not proud of that)
 
 
-#### Stack:
+#### Main Stack:
 - NodeJS
 - JavaScript
 - ReactJS
 - Sequelize
-- MongoDB
-- C/C#
 
 <br/>
 
@@ -34,6 +32,9 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   <img width="10%" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg">
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">
+  <img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+  <img width="20%" src="https://img1.gratispng.com/20181124/ar/kisspng-mongodb-document-oriented-database-dashboard-nosql-distribooted-install-mongodb-with-1-click-5bfa27c4a54528.934878811543120836677.jpg">
 </p>
 
 <sub>Check these guys aswell: [Dina](https://github.com/mdnm)</sub>
