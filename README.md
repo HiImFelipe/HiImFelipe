@@ -2,6 +2,7 @@
 
 <h3 align="center">Married to JavaScript ❤️</h3>
 <h4 align="center">It's not an abusive relationship, I swear. It just happens to be on every project I work on...</h4>
+<br/>
 
 Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 
@@ -21,9 +22,7 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-<p>
- <br/>
-</p>
+<br/>
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical)
 
