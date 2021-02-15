@@ -30,8 +30,8 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 <p align="center">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img width="10%" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg">
 </p>
 
 <sub>Check these guys aswell: [Dina](https://github.com/mdnm)</sub>
