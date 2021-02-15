@@ -1,7 +1,7 @@
 ## Hi, I'm Felipe. 
 
 <h3 align="center">Married to JavaScript ❤️</h3>
-### It's not an abusive relationship, I swear. It just happens to be on every project I work on...
+<h4 align="center">It's not an abusive relationship, I swear. It just happens to be on every project I work on...</h4>
 
 Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 
