@@ -16,7 +16,7 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
  - (No, I'm not proud of that)
 
 
-#### Main Stack:
+#### 📖 Main Stack:
 - NodeJS
 - JavaScript
 - ReactJS
