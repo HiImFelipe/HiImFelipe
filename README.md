@@ -25,7 +25,7 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 <br/>
 
 <img alt="Felipe's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical">
-<img style="margin-left: 30px" alt="Felipe's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev">
+<img style="margin-left: 5px" alt="Felipe's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev">
 
 
 #### :computer: Tools: 
