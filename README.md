@@ -25,7 +25,7 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 <br/>
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Felipe's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev)
 
 
