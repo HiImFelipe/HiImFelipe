@@ -25,8 +25,8 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical" />
 </p>
 
 #### :computer: Tools: 
