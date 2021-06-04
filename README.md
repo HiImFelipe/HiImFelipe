@@ -10,10 +10,10 @@ Currently working for [Hybriun](https://hybriun.com.br) as a FullStack Developer
 
 
 #### 🎮 Interests: 
-- I absolutely loved anime and japanese culture all my life;
-- I play League of Legends sometimes, but I'm way too bad at that game;
-- My life has been literally listening to remixes of portuguese songs;
- - (No, I'm not proud of that)
+* I absolutely loved anime and japanese culture all my life;
+* I play League of Legends sometimes, but I'm way too bad at that game;
+* My life has been literally listening to remixes of portuguese songs;
+ * (No, I'm not proud of that)
 
 
 #### 📖 Main Stack:
