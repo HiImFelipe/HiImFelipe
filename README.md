@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe. 
 
-<h3 align="center">JavaScript/TypeScript Developer</h3>
+<h3 align="center">JavaScript / TypeScript Developer</h3>
 
 <img align="right" alt="img" src="https://cdn.donmai.us/sample/eb/24/sample-eb2400e9c82df5d8923595bf730fd95e.jpg" width="50%" height="auto" />
 
