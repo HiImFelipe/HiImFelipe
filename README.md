@@ -1,4 +1,4 @@
-## Hi, I'm Felipe. 
+## Welcome to my little mess, I'm Felipe, nice to meet you. 
 
 <h3 align="center">JavaScript / TypeScript Developer</h3>
 
