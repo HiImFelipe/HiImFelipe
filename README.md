@@ -8,7 +8,8 @@
 #### Interests: 
 * Linux user running Arch;
 * I love helping new (or less experienced) people;
-* I like to play a little bit with Lutris and emulators on my linux environment
+* I like to play a little bit with Lutris and emulators on my linux environment;
+* I absolutely love trying new architectures or strategies;
 
 
 #### Main Stack:
