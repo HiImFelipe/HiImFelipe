@@ -25,6 +25,7 @@
 - Sequelize / TypeORM;
 
 <br/>
+<br/>
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 <p align="center">
