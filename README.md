@@ -11,18 +11,18 @@
 
 #### 🕹️ Interests:
 
-- Arch-based linux distros (Endeavour currently)
+- Arch-based linux distros (Endeavour currently);
 - Trying new architectures or strategies;
 - Helping new (or less experienced) people;
 - Play a little bit with Lutris and emulators;
 
 #### 🧶 Main Stack:
 
-- JavaScript / TypeScript
-- NodeJS
-- ReactJS
-- React Native
-- Sequelize / TypeORM
+- JavaScript / TypeScript;
+- NodeJS;
+- ReactJS;
+- React Native;
+- Sequelize / TypeORM;
 
 <br/>
 
@@ -44,5 +44,5 @@
 
 - NestJS;
 - Testing with Jest (Unity/E2E);
-- SOLID (TypeScript)
-- TDD
+- SOLID (TypeScript);
+- TDD;
