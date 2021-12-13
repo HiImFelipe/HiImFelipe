@@ -7,7 +7,7 @@
 
 <br/>
 
-<img align=right height="350px" src="https://static.zerochan.net/Miyazono.Kaori.full.1794838.jpg" />
+<img align=right height="370px" src="https://static.zerochan.net/Miyazono.Kaori.full.1794838.jpg" />
 
 #### 🕹️ Interests:
 
@@ -28,7 +28,7 @@
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
 </p>
 
 <p align=right>
@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-<img align=right width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
+<img align=right width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
 
 #### 📖 Currently learning
 
