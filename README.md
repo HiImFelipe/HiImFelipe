@@ -28,7 +28,7 @@
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
 </p>
 
 <p align=right>
