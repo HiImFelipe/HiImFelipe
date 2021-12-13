@@ -6,10 +6,10 @@
 
 
 #### Interests: 
-* Linux user running Arch (btw);
-* I love helping new (or less experienced) people;
-* I like to play a little bit with Lutris and emulators;
-* I absolutely love trying new architectures or strategies;
+* Arch-based linux distros (Endeavour currently)
+* Trying new architectures or strategies;
+* Helping new (or less experienced) people;
+* Play a little bit with Lutris and emulators;
 
 
 #### Main Stack:
@@ -19,6 +19,11 @@
 - React Native
 - Sequelize / TypeORM
 
+### Currently learning
+- NestJS;
+- Testing with Jest (Unity/E2E);
+- SOLID
+
 <br/>
 
 <p align="center">
@@ -26,14 +31,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
 </p>
-
-#### :computer: Tools: 
-<p align="center">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img width="11%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-  <img width="11%" src="https://infomaniacosifpi.files.wordpress.com/2018/01/mongodb-logo.png?w=640">
-</p>
-
-<sub>Check these guys aswell: [Dina](https://github.com/mdnm)</sub>
