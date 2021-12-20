@@ -14,7 +14,7 @@
 - Arch-based linux distros (Endeavour currently);
 - Trying new architectures or strategies;
 - Helping new (or less experienced) people;
-- Play a little bit with Lutris and emulators;
+- Playing a little bit with Lutris and emulators;
 
 #### 🧶 Main Stack:
 
