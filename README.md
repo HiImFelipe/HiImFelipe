@@ -16,6 +16,7 @@ Passionate programmer, who loves the JavaScript ecosystem, but has it's own spec
 - Lutris and emulators in general
 
 <br />
+<br />
 
 \* *Those are not really Frameworks but they are treated as such for the sake of simplicity.*
 
