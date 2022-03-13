@@ -1,30 +1,32 @@
-## Welcome, I'm Felipe!
+# Hello, I'm Felipe
 
-<h3 align="center">
-  Back-end Focused Developer <br/>
-  <small>💻 Trying to master NodeJS 💻</small>
-</h3>
-
-<br/>
+Passionate programmer, who loves the JavaScript ecosystem, but has it's own special love towards other technologies.
 
 <img align=right height="370px" src="https://static.zerochan.net/Miyazono.Kaori.full.1794838.jpg" />
 
 #### 🕹️ Interests:
 
-- Arch-based linux distros (Endeavour currently);
-- Trying new architectures or strategies;
-- Helping new (or less experienced) people;
-- Playing a little bit with Lutris and emulators;
+- Arch-based linux distros
+  - currently running Endeavour locally
+  - WSL 2 with Windows 11 is also great
+- Trying out new Frameworks
+  - **Front-end**: React*, Next, Svelte, etc.
+  - **Back-end**: Nest, Express*
+- VSCode extensions (I play a lot with these)
+- Lutris and emulators in general
 
+<br />
+
+\* *Those are not really Frameworks but they are treated as such for the sake of simplicity.*
+
+---
 #### 🧶 Main Stack:
 
-- JavaScript / TypeScript;
-- NodeJS;
-- ReactJS;
-- React Native;
-- Sequelize / TypeORM;
+- Languages: **TypeScript** | JavaScript
+- Server-side tools: **NodeJS**
+- Front-end tools: **ReactJS** | React NativeStoryBook
+- ORMs: **TypeORM** | Sequelize | Prisma
 
-<br/>
 <br/>
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
@@ -33,7 +35,10 @@
 </p>
 
 <p align=right>
-  <small>* Stats may decrease based on repositories from old companies</small>
+  <i>
+    Not fully representative of my work since <br/>
+    some private repositories don't show up
+  </i>
 </p>
 
 <br/>
@@ -43,7 +48,8 @@
 
 #### 📖 Currently learning
 
-- NestJS;
-- Testing with Jest (Unity/E2E);
-- SOLID (TypeScript);
-- TDD;
+- Scalable development
+- Caching
+- Queues
+- Clean Architecture
+- Domain-Driven Design
