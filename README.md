@@ -1,6 +1,9 @@
 # Hello, I'm Felipe
 
-Passionate programmer, who loves the JavaScript ecosystem, but has it's own special love towards other technologies.
+<p>
+Passionate programmer, who loves the JavaScript ecosystem. <br/>
+But I also have my own special love towards other technologies, like PHP and C#.
+</p>
 
 <img align=right height="370px" src="https://static.zerochan.net/Miyazono.Kaori.full.1794838.jpg" />
 
