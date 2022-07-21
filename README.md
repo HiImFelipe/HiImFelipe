@@ -30,7 +30,7 @@ But I also have my own special love towards other technologies, like PHP and C#.
 
 - Languages: **TypeScript** | JavaScript
 - Server-side tools: **NodeJS**
-- Front-end tools: **ReactJS** | React NativeStoryBook
+- Front-end tools: **ReactJS** | React Native | StoryBook
 - ORMs: **TypeORM** | Sequelize | Prisma
 
 <br/>
