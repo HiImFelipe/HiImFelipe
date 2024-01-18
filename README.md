@@ -1,39 +1,42 @@
-# Hello, I'm Felipe
+# Hi, I'm Felipe
 
-<p>
+<p align="center">
 Software engineer from Brazil who loves open source software and linux stuff in general.
-</p>
 
-<img align=right height="370px" src="https://static.zerochan.net/Miyazono.Kaori.full.1794838.jpg" />
 
-<p>
-I recommend checking the projects that I give stars to. They are mostly from applications that frequently use, and also people that I support.
-</p>
+<p align="center"><b>I am currently looking for a job opportunity.</b></p>
 
-#### 🕹️ Interests:
+## 🧶 Tools that I have experience with
 
-- **Linux Ecosystem**
-  - I often try different OSes and I have set up many Linux environments for the past few years. I absolutely love messing around with **Arch**, but I respect System76's work with the **Pop!OS** project a lot.
-  - I have tried WSL 2 while using windows 11 in the past. It is fine, I tried to run Ubuntu alongside because I wasn't really experienced with linux. The only downside is the memory overhead that it causes.
-- **Programming Frameworks**
-  - As a **JavaScript/TypeScript** developer, I ran many **React**-based frameworks like **Next** and **Vite**, also other front-end alternatives like **Svelte**. But my interest peaks when we are talking about back-end frameworks like **NestJS**.
-- **Learning other languages**
-  - You might have noticed that this page is written in english, but I don't speak it natively. It is an endless effort to stay in touch with another language and it is something that I personally enjoy a lot. It's been over three years since I am able to watch videos fully in english and interact with others worldwide, it's another world completely.
+### 💼 Professionally
 
----
+- Languages: TypeScript | JavaScript
+- Back-end: NodeJS | NestJS | gRPC | Docker | Prisma | Express | TypeORM | Sequelize | SocketIO
+- Front-end: ReactJS | React Native | StoryBook | Styled Components | TailwindCSS | SaSS
 
-#### 🧶 Tools that I worked professionally with:
-
-- Languages: **TypeScript** | JavaScript
-- Back-end: **NodeJS** | **NestJS** | **gRPC** | **Docker** | **Prisma** | Express | TypeORM | Sequelize | SocketIO
-- Front-end: **ReactJS** | React Native | StoryBook | Styled Components | TailwindCSS | SaSS
-
-#### 🛠 Tools that I worked with as a hobby/scholarship duties
+### 🛠 As a hobbist/scholarship duties
 
 - Languages: Java | C | C# | PHP | Python
 - Back-end: .NET
 - Front-end: Svelte | Blazor WASM
 - Game Development: Phaser | Unity
+
+<p align=right>Total of <b>3 years of professional experience</b> and 4 years dedicated to studies.</p>
+
+---
+
+#### 🕹️ Interests:
+
+- **Linux Ecosystem**
+  - I often try different OSes and I have set up many Linux environments for the past few years.
+- **New technologies**
+  - I abolutely love being an early adopter of all kinds of software in my spare time. 
+- **Other cultures**
+  - I am always very excited to learn about different cultures and points of view.
+
+<p>
+I recommend checking the projects that I give stars to. They are mostly from applications that I frequently use, and also people that I support.
+</p>
 
 <br/>
 
@@ -56,8 +59,6 @@ I recommend checking the projects that I give stars to. They are mostly from app
 
 #### 📖 Currently learning
 
-- Scalable development
-- Caching
-- Queues
-- Clean Architecture
-- Domain-Driven Design
+- Algorithms
+- Multithreading
+- One or two concepts of Rust
