@@ -8,7 +8,7 @@ Software engineer from Brazil who loves open source software and linux stuff in 
 
 ## 🧶 Tools that I have experience with
 
-### 💼 Professionally
+### 💼 As a professional
 
 - Languages: TypeScript | JavaScript
 - Back-end: NodeJS | NestJS | gRPC | Docker | Prisma | Express | TypeORM | Sequelize | SocketIO
