@@ -34,8 +34,11 @@ Software engineer from Brazil who loves open source software and linux stuff in 
 - **Other cultures**
   - I am always very excited to learn about different cultures and points of view.
 
-<p>
-I recommend checking the projects that I give stars to. They are mostly from applications that I frequently use, and also people that I support.
+<br/>
+
+<p align="right">
+I recommend checking the projects that I give stars to.<br/>
+They are projects that I believe in.
 </p>
 
 <br/>
