@@ -39,7 +39,7 @@ I recommend checking the projects that I give stars to. They are mostly from app
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=FelipeSSDev&show_icons=true&theme=radical" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=HiImFelipe&show_icons=true&theme=radical" />
 </p>
 
 <p align=right>
@@ -52,7 +52,7 @@ I recommend checking the projects that I give stars to. They are mostly from app
 <br/>
 <br/>
 
-<img align=right width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSDev&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
+<img align=right width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiImFelipe&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
 
 #### 📖 Currently learning
 
