@@ -4,7 +4,7 @@ Software engineer from Brazil who loves open source.
 
 <br/>
 
-<p align=center><a href=https://github.com/HiImFelipe/HiImFelipe-portuguese>você encontra meu perfil em português aqui!</a></p>
+<p align=center><a href=https://github.com/HiImFelipe/HiImFelipe-portuguese>você encontra minha apresentação em português aqui!</a></p>
 
 <br/>
 
