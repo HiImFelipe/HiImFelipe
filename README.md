@@ -1,38 +1,36 @@
 # Hi, I'm Felipe
 
-<p align="center">
-Software engineer from Brazil who loves open source software and linux stuff in general.
-
-
-<p align="center"><b>I am currently looking for a job opportunity.</b></p>
+Software engineer from Brazil who loves open source.
+<br/>
+<br/>
 
 ## 🧶 Tools that I have experience with
 
-### 💼 As a professional
 
-- Languages: TypeScript | JavaScript
-- Back-end: NodeJS | NestJS | gRPC | Docker | Prisma | Express | TypeORM | Sequelize | SocketIO
-- Front-end: ReactJS | React Native | StoryBook | Styled Components | TailwindCSS | SaSS
+<h3 align=center>💼 As a professional</h3> 
+<br/>
+<p align=center>TypeScript | JavaScript | NodeJS | NestJS | ReactJS | React Native</p>
+<p align=center> gRPC | Docker | Prisma | Express | TypeORM | Sequelize | SocketIO</p>
+<p align=center>StoryBook | Styled Components | TailwindCSS | SaSS</p>
 
-### 🛠 As a hobbist/scholarship duties
+<br/>
+<h3 align=center>🛠 As a hobbyist/scholarship duties</h3> 
+<br/>
 
-- Languages: Java | C | C# | PHP | Python
-- Back-end: .NET
-- Front-end: Svelte | Blazor WASM
-- Game Development: Phaser | Unity
+<p align=center>Java | C | C# | PHP | Python | .NET</p>
+<p align=center> Svelte | Blazor WASM | Phaser | Unity</p>
 
-<p align=right>Total of <b>3 years of professional experience</b> and 4 years dedicated to studies.</p>
+<br/>
+
+<p align=right>Total of <b>3 years of professional experience</b></p>
 
 ---
 
 #### 🕹️ Interests:
 
-- **Linux Ecosystem**
-  - I often try different OSes and I have set up many Linux environments for the past few years.
-- **New technologies**
-  - I abolutely love being an early adopter of all kinds of software in my spare time. 
-- **Other cultures**
-  - I am always very excited to learn about different cultures and points of view.
+- Linux ecosystem
+- Themes and tweaks that make me unique.
+- Watching random math youtubers on my spare time.
 
 <br/>
 
@@ -64,4 +62,3 @@ They are projects that I believe in.
 
 - Algorithms
 - Multithreading
-- One or two concepts of Rust
