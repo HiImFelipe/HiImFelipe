@@ -1,7 +1,11 @@
 # Hi, I'm Felipe
 
 Software engineer from Brazil who loves open source.
+
 <br/>
+
+<p align=center><a href=https://github.com/HiImFelipe/HiImFelipe-portuguese>você encontra meu perfil em português aqui!</a></p>
+
 <br/>
 
 ## 🧶 Tools that I have experience with
